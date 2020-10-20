@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T04:16:12.616Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="z0DbdRPCL8iF1Jf739-Q" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T04:17:02.343Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="HDPUyc23LETL_LDFivOz" version="13.8.0" type="github">
   <diagram id="URaFRX0wA10-E0mFRyCh" name="Page-1">
-    <mxGraphModel dx="1747" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,13 +46,14 @@
         <mxCell id="pcVTQhZWkRdv3neq5Eh--13" value="recall item" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pcVTQhZWkRdv3neq5Eh--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcVTQhZWkRdv3neq5Eh--16">
+        <mxCell id="pcVTQhZWkRdv3neq5Eh--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="374" y="260" as="targetPoint" />
+            <mxPoint x="349.9411764705883" y="340.0588235294117" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="374" y="340" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pcVTQhZWkRdv3neq5Eh--16" value="CTR model train" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pcVTQhZWkRdv3neq5Eh--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pcVTQhZWkRdv3neq5Eh--19" target="pcVTQhZWkRdv3neq5Eh--20">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +104,9 @@
         </mxCell>
         <mxCell id="pcVTQhZWkRdv3neq5Eh--39" value="&lt;font face=&quot;helvetica&quot;&gt;user behavior&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pcVTQhZWkRdv3neq5Eh--41" value="CTR model train" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
